@@ -19,8 +19,8 @@ function CheckQuest()
                  
                  
                  
-                 
-              elseif MyLevel == 1000 or MyLevel <= 1049 then -- Snow Trooper [Lv. 1000] **
+                
+if MyLevel == 1000 or MyLevel <= 1049 then -- Snow Trooper [Lv. 1000] **
                  Ms = "Snow Trooper [Lv. 1000]"
                  NaemQuest = "SnowMountainQuest"
                  LevelQuest = 1
