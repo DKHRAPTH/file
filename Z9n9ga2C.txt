@@ -20,7 +20,7 @@ function CheckQuest()
                  
                  
 if newworld then              
-if MyLevel == 2100 or MyLevel <= 2100 then -- Snow Trooper [Lv. 1000] **
+if MyLevel == 2099 or MyLevel <= 2100 then -- Snow Trooper [Lv. 1000] **
                  Ms = "Snow Trooper [Lv. 1000]"
                  NaemQuest = "SnowMountainQuest"
                  LevelQuest = 1
