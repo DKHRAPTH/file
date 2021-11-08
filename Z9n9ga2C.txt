@@ -12,15 +12,9 @@ if placeId == 2753915549 then
 
 
 function CheckQuest()
-         local MyLevel = game.Players.localPlayer.Data.Level.Value
-         
-	 
-	 
-                 
-                 
-                 
-if newworld then              
-if MyLevel == 1000 or MyLevel <= 1049 then -- Snow Trooper [Lv. 1000] **
+         local MyLevel = game.Players.localPlayer.Data.Level.V              
+ใบมีดโลกใหม่แล้          
+ถ้า MyLevel == 1000 หรือ MyLevel <= 1049 แล้ว -- Snow Trooper [Lv. 1,000] **
                  Ms = "Snow Trooper [Lv. 1000]"
                  NaemQuest = "SnowMountainQuest"
                  LevelQuest = 1
