@@ -24,7 +24,7 @@ if MyLevel == 1000 or MyLevel <= 1049 then -- Snow Trooper [Lv. 1000] **
                  Ms = "Snow Trooper [Lv. 1000]"
                  NaemQuest = "SnowMountainQuest"
                  LevelQuest = 1
-                 NameMon = "Order"
+                 NameMon = "Snow Trooper"
                  CFrameQuest = CFrame.new(604.964966, 401.457062, -5371.69287, 0.353063971, 1.89520435e-08, -0.935599446, -5.81846002e-08, 1, -1.70033754e-09, 0.935599446, 5.50377841e-08, 0.353063971)1
                  CFrameMon = CFrame.new(535.893433, 401.457062, -5329.6958, -0.999524176, 0, 0.0308452044, 0, 1, -0, -0.0308452044, 0, -0.999524176)
 
